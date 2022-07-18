@@ -1,5 +1,4 @@
 {
-  "User": {
-    "title": { "string": {} }
-  }
-}
+  "Movie": {
+    "title": { "string": {} } 
+  },
