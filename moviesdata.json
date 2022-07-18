@@ -1,4 +1,20 @@
 [
+  
+  {
+    "Title": "Star Wars",
+    "Year": "1977",
+    "Genres": "Action, Adventure, Fantasy",
+    "Stars": "Mark Hamill, Carrie Fisher, Harrison Ford, alec Guinness, David Prowse",
+    "Summary": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BMTUzNDY0NjY4Nl5BMl5BanBnXkFtZTgwNjY4MTQ0NzE@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYzA4MjQ4ZWEtOGM4Ny00NzA0LTgxN2YtODUxMTE2NWQ2YTgyXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTkyODQ3ODE1MF5BMl5BanBnXkFtZTgwODgyMzQyNDM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjc1MjQ4NDYxOF5BMl5BanBnXkFtZTcwODExMzA4NA@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTYzOTE1ODI5NF5BMl5BanBnXkFtZTcwMTMxMzA4NA@@._V1_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s5WpEgjbB7H08cG1KcJhV78qnP0RsDszLzo-w34S-C_HJkcB8In0lPxEH-5esFvc7zM&usqp=CAU"
+     ]
+  },
   {
     "Title": "Lord of the Rings: Fellowship of the Ring",
     "Year": "1997",
@@ -15,26 +31,6 @@
 
     ]
   },
-
-  {
-    "Title": "Star Wars",
-    "Year": "1977",
-    "Genres": "Action, Adventure, Fantasy",
-    "Stars": "Mark Hamill, Carrie Fisher, Harrison Ford, alec Guinness, David Prowse",
-    "Summary": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
-    "Scenes": [
-      "https://m.media-amazon.com/images/M/MV5BMTUzNDY0NjY4Nl5BMl5BanBnXkFtZTgwNjY4MTQ0NzE@._V1_QL75_UX500_CR0,47,500,281_.jpg",
-      "https://m.media-amazon.com/images/M/MV5BYzA4MjQ4ZWEtOGM4Ny00NzA0LTgxN2YtODUxMTE2NWQ2YTgyXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
-      "https://m.media-amazon.com/images/M/MV5BMTkyODQ3ODE1MF5BMl5BanBnXkFtZTgwODgyMzQyNDM@._V1_.jpg",
-      "https://m.media-amazon.com/images/M/MV5BNjc1MjQ4NDYxOF5BMl5BanBnXkFtZTcwODExMzA4NA@@._V1_.jpg",
-      "https://m.media-amazon.com/images/M/MV5BMTYzOTE1ODI5NF5BMl5BanBnXkFtZTcwMTMxMzA4NA@@._V1_.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s5WpEgjbB7H08cG1KcJhV78qnP0RsDszLzo-w34S-C_HJkcB8In0lPxEH-5esFvc7zM&usqp=CAU"
-
-
-
-    ]
-  },
-
   {
     "Title": "Titanic",
     "Year": "1997",
