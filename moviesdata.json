@@ -1,0 +1,346 @@
+[
+  {
+    "Title": "Lord of the Rings: Fellowship of the Ring",
+    "Year": "1997",
+    "Genres": "Action, Adventure, Drama, Fantasy",
+    "Stars": "Elijah Wood, Ian McKellen, Oranldo Bloom",
+    "Summary": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BMTY1OTE1NDY4NV5BMl5BanBnXkFtZTcwMzkwMjk2Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMzEwNzQzMTE3OF5BMl5BanBnXkFtZTcwNzgwMjk2Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjQ4NDg5MTQwNl5BMl5BanBnXkFtZTgwNTQwMTk2MTI@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BODk1MzkwNTA4N15BMl5BanBnXkFtZTgwOTU1ODY3MjI@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjIwOTc4MDAzN15BMl5BanBnXkFtZTcwOTkwMjk2Mw@@._V1_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8JfBoVqL5nsd_oxW6AhDZMJPo0-D7CUuZA&usqp=CAU"
+
+    ]
+  },
+
+  {
+    "Title": "Star Wars",
+    "Year": "1977",
+    "Genres": "Action, Adventure, Fantasy",
+    "Stars": "Mark Hamill, Carrie Fisher, Harrison Ford, alec Guinness, David Prowse",
+    "Summary": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BMTUzNDY0NjY4Nl5BMl5BanBnXkFtZTgwNjY4MTQ0NzE@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYzA4MjQ4ZWEtOGM4Ny00NzA0LTgxN2YtODUxMTE2NWQ2YTgyXkEyXkFqcGdeQTNwaW5nZXN0._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTkyODQ3ODE1MF5BMl5BanBnXkFtZTgwODgyMzQyNDM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjc1MjQ4NDYxOF5BMl5BanBnXkFtZTcwODExMzA4NA@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTYzOTE1ODI5NF5BMl5BanBnXkFtZTcwMTMxMzA4NA@@._V1_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9s5WpEgjbB7H08cG1KcJhV78qnP0RsDszLzo-w34S-C_HJkcB8In0lPxEH-5esFvc7zM&usqp=CAU"
+
+
+
+    ]
+  },
+
+  {
+    "Title": "Titanic",
+    "Year": "1997",
+    "Genres": "Drama, Romance",
+    "Stars": "Leonardo DiCaprio, Kate Winslet, Billy Zane",
+    "Summary": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "Scenes": [
+     "https://m.media-amazon.com/images/M/MV5BNzczNjA2MTY5M15BMl5BanBnXkFtZTgwNTgyNDY2NzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BODQyNTg5NjE1M15BMl5BanBnXkFtZTcwNTMzMzE2Nw@@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTUyNDMyOTU2NF5BMl5BanBnXkFtZTcwOTI3NTk1Nw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYzQ3N2Q0MjItYWU4Yy00ZjQ2LWI3OTctNWM4NzI5YTNkYzkzXkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTQ0NDAwODA4N15BMl5BanBnXkFtZTgwNTcwNzMzMzE@._V1_QL75_UY281_CR87,0,500,281_.jpg"
+      ]
+  },
+  {
+    "Title": "Jurassic Park",
+    "Year": "1993",
+    "Genres": "Action,Adventure,Sci-Fi,Thriller",
+    "Stars": "Sam Neill, Laura Dern, Jeff Goldblum",
+    "Summary": "A pragmatic paleontologist touring an almost complete theme park on an island in Central America is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BMTQ5NzAxNzE2OV5BMl5BanBnXkFtZTgwNjAzOTIwMjE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjg5NjQyNDExNF5BMl5BanBnXkFtZTgwMTEzOTIwMjE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjE2NzI2MTg2Ml5BMl5BanBnXkFtZTgwMzc2MzIyMzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMzNiMTE5ZTItZmZmMC00M2E5LWExZGYtYjAzMDZlMTM5NTkyXkEyXkFqcGdeQW1yb2Njbw@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK1XgUiGL-op_jAKSavcuJu9wWMjGn6DY5kQ&usqp=CAU",
+      "https://m.media-amazon.com/images/M/MV5BYTJmYzlmZDUtZGMwNC00MTQ4LWI4NGEtMDgzNzM1NGMxYzYwXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_.jpg"
+
+
+    ]
+  },
+  {
+    "Title": "2001: A Space Odyssey",
+    "Year": "1968",
+    "Genres": "Adventure, Sci-Fi",
+    "Stars": "Keir Dullea,Gary Lockwood,William Sylvester",
+    "Summary": "After uncovering a mysterious artifact buried beneath the Lunar surface, a spacecraft is sent to Jupiter to find its origins - a spacecraft manned by two men and the supercomputer H.A.L. 9000.",
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BZGJiOGEyYWQtNWYyMC00MWRiLWIzMzMtNTMxNjVlMGEwZWM3XkEyXkFqcGdeQXRodW1ibmFpbC1pbml0aWFsaXplcg@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTQ1Njc3ODU0Ml5BMl5BanBnXkFtZTgwNDU2MDMyMzE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjA1NzYwNTk4NF5BMl5BanBnXkFtZTcwNjcyOTcyMw@@._V1_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy1k__mcN9gD4YImUguR6ErKhXt-10qrBDgQ&usqp=CAU",
+      "https://m.media-amazon.com/images/M/MV5BODlkNTc0YWEtZjg4OS00ZjFhLThkZjgtYWQwMzI4MmY5NDQzXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg"
+    ]
+  },
+  {
+    "Title": "The Godfather",
+    "Year": "1972",
+    "Genres": "Crime, Drama",
+    "Stars": "Marlon Brando,Al Pacino,James Caan",
+    "Summary": "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.",
+    "Scenes": [
+     "https://m.media-amazon.com/images/M/MV5BYWNlN2U4YjQtMzI3NC00ZjkxLWEwMTItYWRlNDUxYTYwYjVlXkEyXkFqcGdeQWpvaG5oYXJ0._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYzIzODc2YjktNjA3Yi00NTcxLWEzYWUtMzI5MzRhYzY5NjYzXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZDYyZmQyMjMtMGQyMS00YjYwLWIxZWEtMzQ0ODNlYzFkM2YyXkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYWM0ZTc1ZjAtNDNjZS00YjkzLTkwYTMtYzQ0OThlNDM1ZDU2XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNzE0OThmMWMtODI2My00NGIwLWIyZGQtMGFmMjdmNGJjNGFkXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_FMjpg_UX1000_.jpg"
+
+    ]
+  },
+  {
+    "Title": "Raiders of the Lost Ark",
+    "Year": "1981",
+    "Genres": "Action, Adventure",
+    "Stars": "Harrison Ford, Karen Allen, Paul Freeman",
+    "Summary": "n 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BODBlMWFkZTEtMTUyNi00MmY2LWJlNWItYWZlMjExMGM3YmMyXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjkzNmVkZTktZjFiNC00MjhlLThjZGItOTI5NWQ0YTcyOGVmXkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZmFkNWQ4YWEtOTU2Yy00ZDliLThjYjItYjJmZTc1ODEwYzcwXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjk3NDhmNmYtYzU2Yi00NTNkLWEzNGMtZjU0M2QzMzkxZjM5XkEyXkFqcGdeQXVyOTA1ODU0Mzc@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYmEyZTAzNmMtZmUyZC00NDU3LWI5ZDEtMTM5NWM5MWJlMmY2XkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMDE2Y2RhNmYtMWI1Mi00M2IyLTk3NTMtYTNjODhmMzU2Mzk4XkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BM2EwNjM0NzktMzJhNS00MzQ2LTkwN2MtNTUwMjFhYmE0ZTM5XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjBhMzYyNTEtN2Q1Zi00MjlmLThjYmQtNWE0YjhkYzBlZjY1XkEyXkFqcGdeQXVyMjI3NzE4MTM@._V1_.jpg"
+      ]
+  },
+  {
+    "Title": "The Dark Knight",
+    "Year": "2008",
+    "Genres": "Action, Crime, Drama,Thriller",
+    "Stars": "Christian Bale, Heath Ledger, Aaron Eckhart",
+    "Summary": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "Scenes": [
+     "https://m.media-amazon.com/images/M/MV5BNWJkYWJlOWMtY2ZhZi00YWM0LTliZDktYmRiMGYwNzczMTZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYWY1NDI4N2UtMjljNS00ODE5LTlkNzAtYjcyZTFhYjE3Y2Q1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTc3ODQ0NTI2OF5BMl5BanBnXkFtZTcwOTEyMjc2Nw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTgzMzkyNjAwOV5BMl5BanBnXkFtZTcwNzgzMTk2Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYjQ0YTQxNzgtZGM3Ni00YmNhLThkZGQtNjExNGI1YzZjYTViXkEyXkFqcGdeQXVyNTc3MjUzNTI@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTM2MjI4MzU1NV5BMl5BanBnXkFtZTcwOTgzMTk2Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjk0Nzg4ODExNF5BMl5BanBnXkFtZTcwMDcxMTk2Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMGNiYjg0NDAtYjFkNC00NmM2LWI2MjUtMjEzYmFjMmMzNWU3XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjA3NTc5MDg5MF5BMl5BanBnXkFtZTcwODgzMTk2Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOGY2YjM4ZDItMWMyZi00YWU3LWFmN2YtYzY5NjBhNTgyYTYwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg"
+      ]
+  },
+  {
+    "Title": "Jaws",
+    "Year": "1975",
+    "Stars": "Roy ScheiderRobert ShawRichard Dreyfuss",
+    "Genres": "Adventure, Thriller",
+    "Summary": "When a killer shark unleashes chaos on a beach community off Cape Cod, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.",
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BOThlMjgxNmYtN2E2Mi00ODliLWE1M2ItYjAxN2JmYzBkZWMxXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOGM3OGEzYWUtNTY3Zi00MTA3LWIwODYtOWQxYzg0ODQzYzkyXkEyXkFqcGdeQXVyNjMyNTUwMTc@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BN2ZiNjY0NGYtM2I4Mi00YzU1LTk5NGMtMGJjNjlkYzg0ZjBlXkEyXkFqcGdeQXVyMzQ3Nzk5MTU@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMGQwMDUwYzUtMTY1OS00NGY1LThjZmUtY2ZmY2NjNTcxOGVkXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOGZmN2E4MWYtYmVjNi00YTc3LTkzYmQtOGM4Mjc2MDU4MjA2XkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTUzMTY1NzMzMF5BMl5BanBnXkFtZTYwMTQ5Mzc3._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BM2M4MDExNTItOGI5MS00N2MzLTgxMmUtZTc3NDIzYzQ3MmI5XkEyXkFqcGdeQXVyNzc5NjM0NA@@._V1_FMjpg_UX1000_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsH_8FX5yMk9xsy9EDUBp-C-ShADPl6R7QIA&usqp=CAU",
+      "https://m.media-amazon.com/images/M/MV5BNDQ3MGJkZmQtMjBhNC00OTIzLTljYWQtN2VjZDg0ZjhkZjkwXkEyXkFqcGdeQXVyNjMyNTUwMTc@._V1_FMjpg_UX1000_.jpg"
+        ]
+  },
+  {
+    "Title": "Toy Story",
+    "Year": "1995",
+    "Genres": "Animation, Adventure, Comedy, Family, Fantasy",
+
+    "Stars": "Tom Hanks(voice), Tim Allen(voice), Don Rickles(voice)",
+    "Summary": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BMjA4MDk4MDE0M15BMl5BanBnXkFtZTcwMTEzMzc4Mg@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTI1Nzk2MzU3Ml5BMl5BanBnXkFtZTcwMzAzMzc4Mg@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNzQ5NTE4NDI3NF5BMl5BanBnXkFtZTcwMzEzMzc4Mg@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjAwOTYzODExMF5BMl5BanBnXkFtZTcwNDYyNjc4Mg@@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTcxMTAxNzQ3NV5BMl5BanBnXkFtZTcwOTEzMzc4Mg@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjQxNWI4OWUtNDQzZC00ODA2LTgwYjYtYjg4YWIwZDVjMWNjXkEyXkFqcGdeQXVyODc5MTI0NjU@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZDgzM2Q2NDktZTkwMC00NTJiLWE4ZmEtN2RjMzVlMmE3MzkxXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZsbybKs3WDv46oYAlUFmbfPX6UxNQIj87tQ&usqp=CAU",
+      "https://m.media-amazon.com/images/M/MV5BNGM5ZDEzZmItMTIyZC00MTE3LTkwN2EtOWE0ODNlYjNkY2NkXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMzNlNDMyNDMtZjY4MC00NzQ0LTllODktMzFkNjFkM2ZkZDFlXkEyXkFqcGdeQXVyNjQ4ODE4MzQ@._V1_.jpg"
+    ]
+  },
+  {
+    "Title": "ET",
+    "Year": "1982",
+    "Genres": "Adventure, Family, Sci-Fi",
+
+    "Stars": "Henry Thomas, Drew Barrymore, Peter Coyote",
+    "Summary": "A troubled child summons the courage to help a friendly alien escape from Earth and return to his home planet.",
+
+    "Scenes": [
+        "https://m.media-amazon.com/images/M/MV5BNDM1Mjk0NDIwNV5BMl5BanBnXkFtZTgwMzc0MDk0MDI@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNTc3NTQ3MDUzM15BMl5BanBnXkFtZTgwNjA3MTg5MTE@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTA1OTcyMzQ0MTBeQTJeQWpwZ15BbWU4MDIwNzE4OTEx._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMGFkMjA0ZDMtZDFkNC00Yjg3LWJhNTAtNmQyYzdlOTg4Njc3XkEyXkFqcGdeQXVyMjE5MzM3MjA@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNWZhOTAyMDgtZDZhOS00NWI2LTkyMzUtMmY0YTVlYjAzYzM1L2ltYWdlXkEyXkFqcGdeQXVyMzMyODMwMTI@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTIzOTYyMjc5MF5BMl5BanBnXkFtZTYwNTg4ODQ3._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTgzNjY3OTA2OF5BMl5BanBnXkFtZTgwNDc0MDk0MDI@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BODhlY2U2ZmEtM2Y0Yi00M2M4LTk2NTAtODdlMGEyZDU2YmRiXkEyXkFqcGdeQXVyMjE4Mzg2OTg@._V1_.jpg"
+
+    ]
+  },
+  {
+    "Title": "Shrek",
+    "Year": "2001",
+
+    "Genres": "Animation, Adventure, Comedy, Family, Fantasy, Romance",
+
+    "Stars": "Mike Myers(voice), Eddie Murphy(voice), Cameron Diaz(voice)",
+    "Summary": "A mean lord exiles fairytale creatures to the swamp of a grumpy ogre, who must go on a quest and rescue a princess for the lord in order to get his land back.",
+
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BMTAyODc3Njc1NjdeQTJeQWpwZ15BbWU3MDQ3MDgyNDY@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjAwOTY3ODAzNl5BMl5BanBnXkFtZTcwNjYzNDc3Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjExNjI2Nzk5M15BMl5BanBnXkFtZTcwMzczNDc3Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTczNjE0MDQ3NF5BMl5BanBnXkFtZTcwOTYzNDc3Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYzVlOWE0ZTgtOWIxZC00MWFkLWE5NTAtM2NmZjllOTE5MmI0XkEyXkFqcGdeQXVyODUxMTE5NjU@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYzRmYjc1ZmQtZjY1Ni00NDZkLThjYjctZTk4NTJlYTlmN2I0XkEyXkFqcGdeQXVyNzgyOTQ5MTc@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYzcwYzAxN2UtZjI5MS00NjkxLWI1YTYtYTA1MDI4MGYwMGVlXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZGYzYmJmZTUtYWZkZC00Y2Q1LTgyMDMtNGJjY2I4NmJhZDdiXkEyXkFqcGdeQXVyNjcyODYyNzk@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZmM3MThhOTAtZTE0NS00YWQ5LTgyNWItZDRjZWY4OWUzNGZkXkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BM2YyN2M0ODEtYTcxYS00NTQxLThjMDItOTQzMDc5YzE1YWNmXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_.jpg"
+        ]
+  },
+  {
+    "Title": "Ben Hur",
+    "Year": "1959",
+
+    "Genres": "Adventure, Drama",
+
+    "Stars": "Charlton Heston, Jack Hawkins, Stephen Boyd",
+    "Summary": "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.",
+
+    "Scenes": [
+    "https://m.media-amazon.com/images/M/MV5BMTQ1NjUyMTMwMF5BMl5BanBnXkFtZTcwMjk3OTIyNw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTAzNzU0MTc3NTJeQTJeQWpwZ15BbWU3MDI4MjU0OTY@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTc1MjU4NDYwM15BMl5BanBnXkFtZTcwNDk3OTIyNw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYTE3ZTY4YWEtMTIzYS00OGI0LWFkNjktMzEwYjI3YWM3ZDkyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMDMwZDMzZmUtOGZjYS00NmE2LTgwYWMtNWQ0MzIyZGMyNmMzXkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZGZjZjlkOGItYWNlNS00YTA4LWJjY2ItNzA3NWE4ZmFiZDYwXkEyXkFqcGdeQXVyNTEwNDcxNDc@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BY2MyNjFiNzQtZTgzYi00Zjc4LTkwMTAtODA3ZDUxNGY5MGNlXkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMDg3YWVlM2YtMTc2MS00MWJmLThkM2YtYmU0MDAwOWUzYTU3XkEyXkFqcGdeQXVyNTU1OTUzNDg@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMGQxN2E1NGYtODNmYS00NWZmLWJjZjUtNmVjYmQ4MDJmYzg0XkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOWZiYmQ2NTYtMjVmMS00MTJkLTkzMzUtN2JhZTE1NjhkODljXkEyXkFqcGdeQXVyNTEwNDcxNDc@._V1_FMjpg_UX1000_.jpg"
+      ]
+  },
+  {
+    "Title": "Saving Private Ryan",
+    "Year": "1998",
+
+    "Genres": "War, Drama",
+    "Summary": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "Stars": "Tom Hanks, Matt Damon, Tom Sizemore",
+
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BN2ZkY2E2ODYtZTY1MC00NTAzLWJhNDUtNzAyNTcyZTcwZmE3XkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYWVkYTY1ODYtZTk0Yi00MWVhLWE3NDctYTljYzcxYTc5MmVjXkEyXkFqcGdeQXVyMDc2NTEzMw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMzk0MDYzYmUtM2FkYy00YTc3LWFhYjUtNTQzODMyYjE4YzQ4XkEyXkFqcGdeQXVyNjQ2NDA2ODM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BODE3MDU5YzctZmVkYy00M2YyLTk2OWUtMzEyNWNiMTdiMGI0XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNzgxOTU1ODEtZGUxMC00Y2FiLThlZTctNTQ1MTQ3MjAwMjQ2XkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTg1OTQwODI4NV5BMl5BanBnXkFtZTcwMjYwODgwMw@@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYWNjNDU2ZjktNmYwYS00YTQyLThhZWUtZjc3MGQ4NzVjNzEyXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa9E341UKWKgJXDNxOH_oBz6V9n_CLiKhNWA&usqp=CAU",
+      "https://m.media-amazon.com/images/M/MV5BZTMzZGQzOWMtN2NjYS00ODgyLTk1ZWUtMDk2NDlhYTQ0N2FiXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZjU1N2M2N2YtZTk3Zi00ZTI2LTk3YWEtMzljNGYzY2U0MTcxXkEyXkFqcGdeQXVyNjI4OTE1MTA@._V1_.jpg"
+        ]
+  },
+  {
+
+    "Title": "The Matrix",
+    "Year": "1999",
+
+    "Genres": "Action, Sci-Fi",
+     "Stars": "Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss",
+    "Summary": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+
+    "Scenes": [
+      "https://m.media-amazon.com/images/M/MV5BMTU5NTA0OTIxNF5BMl5BanBnXkFtZTcwNjI4MTc4Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNzM4OTkzMjcxOF5BMl5BanBnXkFtZTgwMTkxMjI1MTI@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNWM3OGI1OTctNDVjNC00NzE1LThkOTYtMDllZGJiOTQ2Mzc4XkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTY5OGI0YjUtNzE0Yi00ZGY4LTk1NTUtMzc0YTcwMTc1OTlhXkEyXkFqcGdeQXVyMTIyNjE5MTkw._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZjI3M2NhODItNTM5NC00ZWNkLTg4ZDctMTUzM2UxZjg3MzgyXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTYyNDQyOTEyMV5BMl5BanBnXkFtZTcwNTI4MTc4Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZDAwODA5NmQtM2ZjMi00MDljLWFjODctMzc3NDEwOTBlMDA0XkEyXkFqcGdeQXVyMjMzMDI4MjQ@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYmZiODMyYTMtNjA5NC00ZDEzLTk2MmEtNTkyNmZjNWI2MDVkXkEyXkFqcGdeQXVyNjY0NDQ1MTc@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYWVlYzZiODEtY2NiNC00YTE5LWI4YjYtZjkxMjkwOGQ0MzhhXkEyXkFqcGdeQXVyMTMwMTcxNjk1._V1_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaSnS0bq0wcKF3DBtePdeYZgtL7I_C6yoISQ&usqp=CAU"
+
+    ]
+  },
+  {
+
+    "Title": "Braveheart",
+    "Year": "1995",
+
+    "Genres": "Biography, Drama, History, War",
+        "Stars": "Mel Gibson, Sophie Marceau, Patrick McGoohan",
+    "Summary": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+
+    "Scenes": [
+     "https://m.media-amazon.com/images/M/MV5BYzg3ODNmYjMtNTRiZS00MzYyLTlhOTItZjc0YjhiMmQ3NmNiXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+    "https://m.media-amazon.com/images/M/MV5BMTYzOTA0NTQ3MV5BMl5BanBnXkFtZTgwNjEyNzU5MTE@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BYmYwZmExYzQtM2NhMy00MDNjLWE5YWMtYjkyNWEwNzk0NmQ3XkEyXkFqcGdeQXVyNDk2MjQ4Mzk@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BN2MxODM1NWItMmE3Zi00MjU2LTkyNjQtOWQ2MjUzMjFiMmQ0XkEyXkFqcGdeQXVyMjI4MzI3MTQ@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTM0OTQ5OTQwM15BMl5BanBnXkFtZTcwNjcwNDY4Mw@@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZThkZDRlMGYtMzg2Ny00Zjg1LTljMzctNWRlZmI2NjQzNWRkXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNGVmNDE1MzEtZGU0Mi00Yjg4LTg2ZDgtNDBlZTg5ZTVlN2IxXkEyXkFqcGdeQXVyNjkxMjM5Nzc@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOWNiNDVjZjktOWU3Mi00NTg2LTllYWItZjY5Nzk0ZmMyOGVjXkEyXkFqcGdeQXVyNDk2MjQ4Mzk@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjRmOTA0NDgtMmIzNi00ZjJlLWIzNDItYjNiNDk5MDhlNmM3XkEyXkFqcGdeQXVyNDk2MjQ4Mzk@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMzhiM2Q3OTAtM2UwNy00NzJkLTgzNjQtMmNlYWI1MTU5YjQzXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_FMjpg_UX1000_.jpg"
+    ]
+  },
+  {
+    "Title": "It's a Wonderful Life",
+    "Year": "1946",
+
+    "Genres": "Drama, Family, Fantasy, Romance",
+      "Stars": "James Stewart, Donna Reed, Lionel Barrymore",
+    "Summary": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+
+    "Scenes": [
+     "https://m.media-amazon.com/images/M/MV5BMjQxNTM4Mjg1NV5BMl5BanBnXkFtZTgwNDYyNzM4NjM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTc0OTY0MDEzOF5BMl5BanBnXkFtZTcwMzA4MTc4Mw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNGMwMzY1YmItODBmNi00OGNmLTllMjYtMjRkYTdjOWRmMDZlXkEyXkFqcGdeQXVyNjQ2NDA2ODM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjI3MGUyN2YtYzFiYi00MTBhLTlkYWYtMmE3MDkyYzU3N2RiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2NDA2ODM@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMzBkNGE3ZDUtZjYyMC00NjE5LWIwNjItYWQxMThlMmI4ODVhXkEyXkFqcGdeQXVyNjQ2NDA2ODM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTY5MmYwMzktN2U4YS00MDU0LTkxNjMtYWJkODg1OTc5MTRmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BOGQ2MDY2ZWItNzY2YS00Yzc5LThiZmUtN2RlYTc3ODQwY2VkXkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZGM1ZjIyYTMtNzE1MS00Njc1LTg4NzQtZGIzMjMwMzk1OTI2XkEyXkFqcGdeQXVyNjQ2NDA2ODM@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNjA5MzZjMzctMjljYi00YzdhLWJiZGYtNzM2MTUxNjQwMWZlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZTc3MDU4YmEtZjEwYi00ODkyLWI4ZWItYTkwMGVhZGM3ZDA0XkEyXkFqcGdeQXVyMTIwODk1NTQ@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTkxNDQyMzQ1Ml5BMl5BanBnXkFtZTcwNTc4NjIxNw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BZDI0MWFhNWQtYTZjMS00YjU3LTlkNGYtN2U1NzdkNjM3MDllL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2NDA2ODM@._V1_.jpg"
+       ]
+  },
+  {
+    "Title": "The Ten Commandments",
+    "Year": "1956",
+
+    "Genres": "Adventure, Drama, Family, History",
+
+    "Stars": "Charlton Heston, Yul Brynner, Anne Baxter",
+    "Summary": "Moses, raised as a prince of Egypt in the Pharaoh's household, learns of his true heritage as a Hebrew and his divine mission as the deliverer of his people from slavery.",
+
+    "Scenes": [
+     "https://m.media-amazon.com/images/M/MV5BNjdiNTY0ZTctMTUyYS00MmRhLTlhN2EtYzBlYTdiYTcxYTRkXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNWNmOGVhODMtMjdiNi00YzUyLTkzNjktNGIxOTg0Mjk2MDEyL2ltYWdlXkEyXkFqcGdeQXVyNTEwNDcxNDc@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNGIzZGYxZmQtZDc0My00MTkxLWFmNDMtMDlmYjM4YWYyZjEyXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BNDQxYTMyZDQtNzZjZS00MmE5LThiMzEtNjYwYzliMDA0MmFhXkEyXkFqcGdeQXVyMTIyMTU4Nzcz._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BODUyMmE5NTctYzE1NS00OTcyLTllNDYtZGYwOTM4OTZmM2E1XkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTQxMTAwZTEtZjcyNi00MjBkLTk5MzQtYzZjNGJiNmIwNjhhL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1000_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMjI4MzY3MTMtYTRhZi00ZTk4LWE5ODItZmM0MjA5NzBjZGJlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMzMwZTNhYzEtNmNkMi00YWE1LTg3NjgtMjEzOWM3ZGRmODNiXkEyXkFqcGdeQXVyMTI4MTk2NzMz._V1_FMjpg_UX1000_.jpg"
+       ]
+  }
+]
